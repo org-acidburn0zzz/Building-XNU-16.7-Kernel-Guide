@@ -87,6 +87,7 @@ sudo ditto $PWD/dst/usr/local `xcrun -sdk macosx -show-sdk-path`/usr/local
 >
 ```
 cd ../xnu-3789.70.16/
+
 ```
 
 >
